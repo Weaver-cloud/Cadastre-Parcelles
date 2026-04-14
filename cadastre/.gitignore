@@ -1,0 +1,10 @@
+node_modules/
+dist/
+output/*.pdf
+output/*.png
+*.log
+.env
+.DS_Store
+coverage/
+.idea/
+.vscode/
