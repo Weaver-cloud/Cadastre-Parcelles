@@ -1,10 +1,12 @@
 # Cadastre&Parcelles
 Cadastre Extractor - Extraction automatique de parcelles
-
->> # 1. Lancer l'application
+>> # 1. Aller au bon dossier
+>> cd ./your/path/to/cadastre
+>> 
+>> # 2. Lancer l'application
 >> npm run build
 >>
->> # 2. Lancer l'application
+>> # 3. Lancer l'application
 >> npm start
 
 Expected shell behavior :
