@@ -1,4 +1,4 @@
-# Cadastre-Parcelles
+# Cadastre&Parcelles
 Cadastre Extractor - Extraction automatique de parcelles
 
 >> # 1. Lancer l'application
